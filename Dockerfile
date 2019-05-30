@@ -18,3 +18,4 @@ RUN tar xvf udpraw.tar.gz
 
 RUN rm kcp.tar.gz
 
+RUN apk add iptables
